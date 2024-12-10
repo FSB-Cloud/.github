@@ -19,6 +19,17 @@ This platform is built using modern web technologies and aims to be a central hu
 - **Login and User Authentication**: Required to upload or contribute materials.
 - **Material Management**: Ability to sort and organize materials by subject, year, and type.
 
+### Contributing
+We welcome contributions from everyone! If you'd like to contribute, follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature-branch).
+3. Make your changes.
+4. Commit your changes (git commit -am 'Add new feature').
+5. Push your branch (git push origin feature-branch).
+6. Submit a pull request.
+7. Please check the open issues to see what needs help.
+
 ## Getting Started
 
 To run FSB Cloud locally or contribute to its development, follow these steps:
@@ -31,37 +42,21 @@ To run FSB Cloud locally or contribute to its development, follow these steps:
 2. Install **Git** to clone the repository:
    - [Install Git](https://git-scm.com/)
 
-### Clone the Repository
+### Clone the FSB Cloud repository to your local machine:
 
-1. Clone the FSB Cloud repository to your local machine:
-
-   git clone https://github.com/FSBCloud/FSBCloud.git
+   git clone [ Repo link ](https://github.com/FSB-Cloud)
    cd FSBCloud
 
-### Install Dependencies
-
-2. Install the required dependencies:
+### Install the required dependencies:
 
    npm install
 
-### Run the Development Server
-
-3. Start the development server:
+### Start the development server:
 
    npm start
 
 Your app will be running at http://localhost:3000.
 
-### Contributing
-We welcome contributions from everyone! If you'd like to contribute, follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (git checkout -b feature-branch).
-3. Make your changes.
-4. Commit your changes (git commit -am 'Add new feature').
-5. Push your branch (git push origin feature-branch).
-6. Submit a pull request.
-7. Please check the open issues to see what needs help.
 
 ### Code of Conduct
 Please be respectful and considerate when contributing to this project. Everyone should feel safe and welcome, regardless of their background, experience, or identity.
@@ -70,7 +65,7 @@ Please be respectful and considerate when contributing to this project. Everyone
 This project is open-source and licensed under the MIT License.
 
 ### Contact
-If you have any questions, feedback, or suggestions, feel free to open an issue on GitHub, or contact the FSB Cloud team at email@fsbcloud.org.
+If you have any questions, feedback, or suggestions, feel free to open an issue on GitHub, or contact the FSB Cloud team at .
 
 ### Connect with Us
 GitHub  : https://github.com/FSBCloud
