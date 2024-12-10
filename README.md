@@ -19,8 +19,6 @@ This platform is built using modern web technologies and aims to be a central hu
 - **Login and User Authentication**: Required to upload or contribute materials.
 - **Material Management**: Ability to sort and organize materials by subject, year, and type.
 ___
-***
----
 ### Contributing
 We welcome contributions from everyone! If you'd like to contribute, follow these steps:
 
@@ -47,8 +45,7 @@ We welcome contributions from everyone! If you'd like to contribute, follow thes
 
 7. **Check the open issues**: Before submitting a pull request, take a look at the existing issues in the repository to check if there's something specific that you can help with.
 
-
----
+___
 ## Getting Started
 
 To run FSB Cloud locally or contribute to its development, follow these steps:
@@ -84,7 +81,7 @@ To run FSB Cloud locally or contribute to its development, follow these steps:
 
 Your app will be running at http://localhost:3000.
 
-
+___
 ### Code of Conduct
 Please be respectful and considerate when contributing to this project. Everyone should feel safe and welcome, regardless of their background, experience, or identity.
 
