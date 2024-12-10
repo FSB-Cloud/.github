@@ -18,7 +18,9 @@ This platform is built using modern web technologies and aims to be a central hu
 - **Search**: Quickly find materials using a robust search feature.
 - **Login and User Authentication**: Required to upload or contribute materials.
 - **Material Management**: Ability to sort and organize materials by subject, year, and type.
-
+___
+***
+---
 ### Contributing
 We welcome contributions from everyone! If you'd like to contribute, follow these steps:
 
@@ -45,11 +47,12 @@ We welcome contributions from everyone! If you'd like to contribute, follow thes
 
 7. **Check the open issues**: Before submitting a pull request, take a look at the existing issues in the repository to check if there's something specific that you can help with.
 
+
+---
 ## Getting Started
 
 To run FSB Cloud locally or contribute to its development, follow these steps:
 
----
 ### Prerequisites
 
 1. Install **Node.js** and **npm**: FSB Cloud is built with React and requires Node.js to run.
@@ -63,8 +66,6 @@ To run FSB Cloud locally or contribute to its development, follow these steps:
    ```bash
       git clone https://github.com/FSB-Cloud
    ```
-   git clone https://github.com/FSB-Cloud
-   
    ```bash
       cd FSBCloud
    ```
