@@ -1,8 +1,3 @@
-# 🔵 FSB Cloud
-
-![FSB Cloud](https://via.placeholder.com/500x100.png?text=FSB+Cloud&bg=0000FF&color=FFFFFF)
-
-
 # FSB Cloud
 
 Welcome to **FSB Cloud** – a platform created by the students of the Faculty of Mechanical Engineering and Naval Architecture (FSB) at the University of Zagreb. FSB Cloud is a **community-driven repository** for students to **upload**, **view**, and **share materials** such as **exams**, **notes**, **study guides**, and **projects**. Our goal is to build a collaborative, open-source platform that enhances the learning experience for all FSB students.
@@ -47,18 +42,28 @@ To run FSB Cloud locally or contribute to its development, follow these steps:
 2. Install **Git** to clone the repository:
    - [Install Git](https://git-scm.com/)
 
-### Clone the FSB Cloud repository to your local machine:
+### Clone the [FSB Cloud]() repository to your local machine:
 
+   ```bash
+      git clone [ Repo link ](https://github.com/FSB-Cloud)
+   ```
    git clone [ Repo link ](https://github.com/FSB-Cloud)
-   cd FSBCloud
+   
+   ```bash
+      cd FSBCloud
+   ```
 
 ### Install the required dependencies:
-
-   npm install
+   
+   ```bash
+      npm install
+   ```
 
 ### Start the development server:
 
-   npm start
+   ```bash
+      npm start
+   ```
 
 Your app will be running at http://localhost:3000.
 
