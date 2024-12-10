@@ -11,7 +11,7 @@ If you have any questions, feedback, or suggestions, feel free to open an issue 
 ___
 ### Connect with Us
 
-+ GitHub  : https://github.com/FSBCloud
++ GitHub  : [https://github.com/FSBCloud](https://github.com/FSB-Cloud)
 
 + Discord : [FSB Cloud](https://discord.gg/sRg7fPcQ)
 
