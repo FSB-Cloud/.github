@@ -45,9 +45,9 @@ To run FSB Cloud locally or contribute to its development, follow these steps:
 ### Clone the [FSB Cloud]() repository to your local machine:
 
    ```bash
-      git clone [ Repo link ](https://github.com/FSB-Cloud)
+      git clone https://github.com/FSB-Cloud
    ```
-   git clone [ Repo link ](https://github.com/FSB-Cloud)
+   git clone https://github.com/FSB-Cloud
    
    ```bash
       cd FSBCloud
@@ -85,11 +85,6 @@ Discord : Join our community on Discord for discussions and support.
 Email   : email@fsbcloud.org
 
 Let's make FSB Cloud a collaborative space for all students at the Faculty of Mechanical Engineering and Naval Architecture at the University of Zagreb!
-
-
-
-
-
 
 
 
