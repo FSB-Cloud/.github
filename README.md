@@ -1,4 +1,7 @@
-<h1 style="color:blue;">FSB Cloud</h1>
+# 🔵 FSB Cloud
+
+![FSB Cloud](https://via.placeholder.com/500x100.png?text=FSB+Cloud&bg=0000FF&color=FFFFFF)
+
 
 # FSB Cloud
 
