@@ -42,7 +42,7 @@ To run FSB Cloud locally or contribute to its development, follow these steps:
 2. Install **Git** to clone the repository:
    - [Install Git](https://git-scm.com/)
 
-### Clone the [FSB Cloud]() repository to your local machine:
+### Clone the FSB Cloud repository to your local machine:
 
    ```bash
       git clone https://github.com/FSB-Cloud
