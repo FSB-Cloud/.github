@@ -60,10 +60,10 @@ To run FSB Cloud locally or contribute to its development, follow these steps:
 
 ### Clone the FSB Cloud repository to your local machine:
 
-   ```bash
++  ```bash
       git clone https://github.com/FSB-Cloud 
    ```
-   ```bash
++  ```bash
       cd FSBCloud
    ```
 
