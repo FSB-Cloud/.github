@@ -69,13 +69,13 @@ To run FSB Cloud locally or contribute to its development, follow these steps:
 
 ### Install the required dependencies:
    
-   ```bash
++  ```bash
       npm install
    ```
 
 ### Start the development server:
 
-   ```bash
++  ```bash
       npm start
    ```
 
@@ -92,11 +92,12 @@ This project is open-source and licensed under the MIT License.
 If you have any questions, feedback, or suggestions, feel free to open an issue on GitHub, or contact the FSB Cloud team at .
 
 ### Connect with Us
-GitHub  : https://github.com/FSBCloud
 
-Discord : Join our community on Discord for discussions and support.
+* GitHub  : https://github.com/FSBCloud
 
-Email   : email@fsbcloud.org
+* Discord : Join our community on Discord for discussions and support.
+
+* Email   : email@fsbcloud.org
 
 Let's make FSB Cloud a collaborative space for all students at the Faculty of Mechanical Engineering and Naval Architecture at the University of Zagreb!
 
