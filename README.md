@@ -30,7 +30,7 @@ We welcome contributions from everyone! If you'd like to contribute, follow thes
 6. [Submit a pull request](#6).
 7. [Check the open issues](#7).
 
-
+___
 1. **Fork the repository**: Go to the repository page on GitHub and click the "Fork" button to create a copy of the repository on your GitHub account.
 
 2. **Create a new branch**: Use the command `git checkout -b feature-branch` to create and switch to a new branch for your changes.
@@ -60,12 +60,12 @@ To run FSB Cloud locally or contribute to its development, follow these steps:
 
 ### Clone the FSB Cloud repository to your local machine:
 
-   1) ```bash
-          git clone https://github.com/FSB-Cloud 
-       ```
-   2) ```bash
-          cd FSBCloud
-      ```
+   ```bash
+      git clone https://github.com/FSB-Cloud 
+   ```
+   ```bash
+      cd FSBCloud
+   ```
 
 ### Install the required dependencies:
    
