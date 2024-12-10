@@ -1,3 +1,5 @@
+<h1 style="color:blue;">FSB Cloud</h1>
+
 # FSB Cloud
 
 Welcome to **FSB Cloud** – a platform created by the students of the Faculty of Mechanical Engineering and Naval Architecture (FSB) at the University of Zagreb. FSB Cloud is a **community-driven repository** for students to **upload**, **view**, and **share materials** such as **exams**, **notes**, **study guides**, and **projects**. Our goal is to build a collaborative, open-source platform that enhances the learning experience for all FSB students.
