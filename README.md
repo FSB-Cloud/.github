@@ -69,7 +69,9 @@ If you have any questions, feedback, or suggestions, feel free to open an issue 
 
 ### Connect with Us
 GitHub  : https://github.com/FSBCloud
+
 Discord : Join our community on Discord for discussions and support.
+
 Email   : email@fsbcloud.org
 
 Let's make FSB Cloud a collaborative space for all students at the Faculty of Mechanical Engineering and Naval Architecture at the University of Zagreb!
