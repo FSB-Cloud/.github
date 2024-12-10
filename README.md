@@ -32,11 +32,17 @@ We welcome contributions from everyone! If you'd like to contribute, follow thes
 
 
 #1. **Fork the repository**: Go to the repository page on GitHub and click the "Fork" button to create a copy of the repository on your GitHub account.
+
 #2. **Create a new branch**: Use the command `git checkout -b feature-branch` to create and switch to a new branch for your changes.
+
 #3. **Make your changes**: Make the necessary changes in the code or documentation, depending on your contribution.
+
 #4. **Commit your changes**: Use `git commit -am 'Add new feature'` to commit the changes with a meaningful message describing your modifications.
+
 #5. **Push your branch**: Push your changes to your GitHub repository with the command `git push origin feature-branch`.
+
 #6. **Submit a pull request**: After pushing your branch, visit the GitHub page for the repository and submit a pull request for review.
+
 #7. **Check the open issues**: Before submitting a pull request, take a look at the existing issues in the repository to check if there's something specific that you can help with.
 
 ## Getting Started
